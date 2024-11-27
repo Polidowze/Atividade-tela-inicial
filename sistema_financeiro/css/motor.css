@@ -164,3 +164,12 @@ h1{
     font-size: 30px;
     width: 250px;
 }
+
+.table{
+    margin-top: 10%;
+    align-items: center;
+    color: white;
+    font-size: larger;
+    box-shadow:white 0px 0px 1px 1px;
+    
+}
